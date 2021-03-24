@@ -1,0 +1,25 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danankita81/cypress-training.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "[Daniela Fernandez] <[daniela.fer81@gmail.com]> ([danankita81])",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danankita81/cypress-training/issues"
+  },
+  "homepage": "https://github.com/danankita81/cypress-training#readme"
+}
